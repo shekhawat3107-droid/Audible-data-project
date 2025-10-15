@@ -14,7 +14,7 @@ Handle missing, combined, and non-numeric values
 
 Prepare data for future analytical use
 
-Tools Used :-
+## Tools Used :-
 
 Microsoft Excel (Power Query Editor)
 
@@ -38,7 +38,7 @@ Column Merging: Combined ReleaseDate and Language into a single ReleaseInfo colu
 
 Currency Formatting: Standardized price values to two decimal places.
 
-Key Outcomes :-
+## Key Outcomes :-
 
 Achieved complete data consistency and accuracy across all columns
 
@@ -46,6 +46,6 @@ Improved dataset readiness for analytics and visualization
 
 Created a structured foundation for further business insights and reporting
 
-Learnings :-
+## Learnings :-
 
 This project enhanced my understanding of data transformation, formatting logic, and Power Query automation within Excel. It demonstrates how structured cleaning improves data reliability and analytical efficiency.
